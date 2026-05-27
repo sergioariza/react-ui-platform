@@ -1,0 +1,10 @@
+{
+  "extends": "@react-ui-platform/tsconfig/react.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "noEmit": true
+  },
+  "include": ["src"],
+  "exclude": ["src/**/*.stories.tsx"]
+}

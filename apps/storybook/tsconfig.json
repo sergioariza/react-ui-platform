@@ -1,0 +1,7 @@
+{
+  "extends": "@react-ui-platform/tsconfig/react.json",
+  "compilerOptions": {
+    "noEmit": true
+  },
+  "include": [".storybook/**/*", "../../packages/ui/src/**/*"]
+}
