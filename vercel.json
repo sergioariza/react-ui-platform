@@ -1,5 +1,5 @@
 {
   "buildCommand": "pnpm --filter @react-ui-platform/ui build && pnpm --filter @react-ui-platform/storybook build-storybook",
-  "outputDirectory": "apps/storybook/storybook-static",
+  "outputDirectory": "storybook-static",
   "installCommand": "pnpm install --frozen-lockfile"
 }
