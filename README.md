@@ -26,7 +26,7 @@ react-ui-platform/
 ├── apps/
 │   └── storybook/                 # Storybook 10 documentation app
 │       └── .storybook/
-│           ├── master.ts            # Framework config, Tailwind v4 Vite plugin
+│           ├── main.ts              # Framework config, Tailwind v4 Vite plugin
 │           └── preview.tsx        # Global CSS import, layout defaults
 ├── packages/
 │   ├── ui/                        # Component library (@react-ui-platform/ui)
@@ -133,7 +133,7 @@ pnpm workspaces installs all packages — `packages/ui`, `packages/tsconfig`, an
 pnpm storybook
 ```
 
-Opens **http://localhost:6006** — hot-reloads on every file save. This is the master development environment for browsing and interacting with all 11 components.
+Opens **http://localhost:6006** — hot-reloads on every file save. This is the main development environment for browsing and interacting with all 11 components.
 
 ---
 
