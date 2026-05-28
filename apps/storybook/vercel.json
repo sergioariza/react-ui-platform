@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd ../.. && pnpm install --frozen-lockfile",
+  "buildCommand": "cd ../.. && pnpm --filter @react-ui-platform/ui build && cd apps/storybook && pnpm build-storybook",
+  "outputDirectory": "storybook-static"
+}
