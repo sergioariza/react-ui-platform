@@ -1,6 +1,6 @@
-# react-ui-platform
+# React UI Platform
 
-A portfolio-grade React component library and design system built with modern tooling. Demonstrates monorepo architecture, accessible UI primitives, variant-driven styling, and automated versioning — all production-ready patterns without being tied to any specific application.
+A React component library and design system showcasing scalable frontend architecture. Built with modern tooling, it focuses on accessible UI primitives, composition-driven APIs, and variant-based styling patterns, reflecting production-grade design system practices.
 
 ## Stack
 
